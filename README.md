@@ -1,6 +1,5 @@
 KEGGDecoder - Visualizing biogeochemical metabolic pathways
 ====
-filename: README.md
 
 ## Quick Start
 
